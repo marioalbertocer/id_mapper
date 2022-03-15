@@ -1,0 +1,9 @@
+﻿ref genome,sm_chrom_1021.fasta,./../example/S_meliloti_genomes,chr,NC_003047.1
+ref genome,sm_chrom_2011.fasta,./../example/S_meliloti_genomes,chr,NC_020528.1
+ref genome,sm_psymA_1021.fasta,./../example/S_meliloti_genomes,psA,NC_003037.1
+ref genome,sm_psymA_2011.fasta,./../example/S_meliloti_genomes,psA,NC_020527.1
+ref genome,sm_psymB_1021.fasta,./../example/S_meliloti_genomes,psB,NC_003078.1
+ref genome,sm_psymB_2011.fasta,./../example/S_meliloti_genomes,psB,NC_020560.1
+assembly,meliloti5_trimmed.fasta,./../example/S_meliloti_assemblies,meliloti5,
+assembly,meliloti6A_trimmed.fasta,./../example/S_meliloti_assemblies,meliloti6A,
+assembly,meliloti6B_trimmed.fasta,./../example/S_meliloti_assemblies,meliloti6B,

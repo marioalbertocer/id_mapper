@@ -1,0 +1,7 @@
+evalue: 1e-10 
+percent of identity: 90
+number of threads for Blast: 4
+output path: ./../example/out
+elements: chr, psA, psB
+length cutoff: 3000
+decision ratio: 2
