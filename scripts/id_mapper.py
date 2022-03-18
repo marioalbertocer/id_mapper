@@ -79,7 +79,7 @@ def main():
 	
 	print("\n(4) Sorting sequences")
 	id_report = open(output_dir + "id_report.csv", "r").readlines()
-	sorting_finished = sortSeqs(elements, output_dir, mapping_file, id_report)
+	sorting_finished = sortSeqs(elements, output_dir, assemblies, id_report)
 	print("\n(4) Sorting sequences --- complete") if sorting_finished == "y" else print("\n(4) Sorting sequences --- incompleted")
 	if mode != "-t" : os.system("rm -r " + output_dir + "/Temp")
 	print("\n(4) Done")
